@@ -18,7 +18,7 @@ If you can not attend events in above cities, follow our [Twitter account][twitt
 **Who should join?**
 
 - anyone planning to travel to Japan
-- anyone whose interested in Japan
+- anyone whose interested in Japan and Japanese culture
 - anyone who can help plan trips to Japan
 
 **What's expected for members?**
@@ -27,5 +27,5 @@ If you can not attend events in above cities, follow our [Twitter account][twitt
 
 [meetup-london]: http://www.meetup.com/Travel-to-Japan-Concierge-in-London/
 [meetup-sf]: http://www.meetup.com/Travel-to-Japan-Concierge-in-San-Francisco/
-[Twitter-tjc]: https://www.twitter.com/tjconcierge
+[twitter-tjc]: https://www.twitter.com/tjconcierge
 [facebook-tjc]: https://www.facebook.com/tjconcierge
