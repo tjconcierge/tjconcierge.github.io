@@ -4,7 +4,7 @@
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: #de0303;
+    background-color: $primary-color;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -171,6 +171,13 @@
     }
 }
 
+.copy{
+  background-color: $primary-color;
+  color: black;
+  font-size: small;
+  text-align: right;
+  padding:10px;
+}
 
 
 /**

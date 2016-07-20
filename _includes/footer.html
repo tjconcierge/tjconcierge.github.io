@@ -1,17 +1,9 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
+        <p>Social media</p>
         <ul class="social-media-list">
           <li>
             {% include icon-facebook.html username=site.facebook_username %}
@@ -19,17 +11,13 @@
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
     </div>
-
   </div>
 
+
+  <div class="copy">
+    <div class="wrapper">&copy;2016 Travel to Japan Concierge</div>
+  </div>
 </footer>
