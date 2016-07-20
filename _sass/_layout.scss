@@ -187,8 +187,30 @@
     padding: $spacing-unit 0;
 }
 
+.page-tagline {
+    font-size: 30px;
+    text-align: center;
+}
+
 .page-heading {
     font-size: 20px;
+}
+
+.map-title{
+  text-align: center;
+}
+
+.community-map {
+  border: 1px black solid;
+  max-width:60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-container{
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
 }
 
 .post-list {
