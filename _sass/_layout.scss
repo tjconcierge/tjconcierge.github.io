@@ -10,11 +10,12 @@
 }
 .title {
   float:left;
-  padding:5px;
+//  padding:5px;
 }
 
 .site-logo{
-  max-width: 50px;
+  max-width: 45px;
+  padding: 5px;
 }
 
 .site-title {
@@ -28,7 +29,6 @@
 
     &,
     &:visited {
-//        color: $grey-color-dark;
         color: white;
     }
 }
@@ -42,7 +42,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
