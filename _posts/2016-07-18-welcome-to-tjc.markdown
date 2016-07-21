@@ -7,11 +7,9 @@ categories: general
 
 We are happy to announce that we've started the official web site for our community.
 
-Firstly, we started the community in London with the [group in meetup.com(London)][meetup-london] in October 2015. Secondly, we organized an event in San Francisco with the [group in meetup.com(SF)][meetup-sf] in June 2016.
+Firstly, we started the community in London with the <a href="http://www.meetup.com/Travel-to-Japan-Concierge-in-London/" target="_blank">group in meetup.com(London)</a> in October 2015. Secondly, we organized an event in San Francisco with the
+<a href="http://www.meetup.com/Travel-to-Japan-Concierge-in-San-Francisco/" target="_blank">group in meetup.com(SF)</a> in June 2016.
 
 As of today, we have 2 communities. We hope to have more communities all over the world!
 
 Founder of Travel to Japan Concierge, Taka
-
-[meetup-london]: http://www.meetup.com/Travel-to-Japan-Concierge-in-London/
-[meetup-sf]: http://www.meetup.com/Travel-to-Japan-Concierge-in-San-Francisco/

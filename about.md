@@ -10,10 +10,10 @@ permalink: /about/
 
 You can join us on web site of meeetup.com.
 
-- [London][meetup-london]
-- [San Francisco][meetup-sf]
+- <a href="http://www.meetup.com/Travel-to-Japan-Concierge-in-London/" target="_blank">London</a>
+- <a href="http://www.meetup.com/Travel-to-Japan-Concierge-in-San-Francisco/" target="_blank">San Francisco</a>
 
-If you can not attend events in above cities, follow our [Twitter account][twitter-tjc] and like our [Facebook page][facebook-tjc].
+If you can not attend events in above cities, follow our <a href="https://www.twitter.com/tjconcierge" target="_blank">Twitter account</a> and like our <a href="https://www.facebook.com/tjconcierge" target="_blank">Facebook page</a>.
 
 **Who should join?**
 
@@ -25,7 +25,5 @@ If you can not attend events in above cities, follow our [Twitter account][twitt
 
 - members of this group are expected to share knowledge of Japan
 
-[meetup-london]: http://www.meetup.com/Travel-to-Japan-Concierge-in-London/
-[meetup-sf]: http://www.meetup.com/Travel-to-Japan-Concierge-in-San-Francisco/
 [twitter-tjc]: https://www.twitter.com/tjconcierge
 [facebook-tjc]: https://www.facebook.com/tjconcierge
