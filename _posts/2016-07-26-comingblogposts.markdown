@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coming blog posts"
-date:   2016-07-27 21:22:00 +0900
+date:   2016-07-26 21:22:00 +0900
 categories: general
 ---
 
