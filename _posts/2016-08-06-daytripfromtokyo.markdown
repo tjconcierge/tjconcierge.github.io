@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Places to go for day trip from Tokyo"
+date:   2016-08-06 10:59:00 +0900
 categories: sightseeing
 ---
 
